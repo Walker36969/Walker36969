@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Walker36969
+- 👋 Hi, I’m Walker
 - 👀 I’m interested in getting into A.I
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects for bussinesses
